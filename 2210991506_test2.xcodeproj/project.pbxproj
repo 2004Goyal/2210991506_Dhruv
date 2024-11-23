@@ -48,16 +48,6 @@
 			path = 2210991506_test2;
 			sourceTree = "<group>";
 		};
-		D24B73BE2CF1896E00B50B9C /* 2210991506_test2Tests */ = {
-			isa = PBXFileSystemSynchronizedRootGroup;
-			path = 2210991506_test2Tests;
-			sourceTree = "<group>";
-		};
-		D24B73C82CF1896E00B50B9C /* 2210991506_test2UITests */ = {
-			isa = PBXFileSystemSynchronizedRootGroup;
-			path = 2210991506_test2UITests;
-			sourceTree = "<group>";
-		};
 /* End PBXFileSystemSynchronizedRootGroup section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -89,8 +79,6 @@
 			isa = PBXGroup;
 			children = (
 				D24B73A72CF1896C00B50B9C /* 2210991506_test2 */,
-				D24B73BE2CF1896E00B50B9C /* 2210991506_test2Tests */,
-				D24B73C82CF1896E00B50B9C /* 2210991506_test2UITests */,
 				D24B73A62CF1896C00B50B9C /* Products */,
 			);
 			sourceTree = "<group>";
@@ -143,9 +131,6 @@
 			dependencies = (
 				D24B73BD2CF1896E00B50B9C /* PBXTargetDependency */,
 			);
-			fileSystemSynchronizedGroups = (
-				D24B73BE2CF1896E00B50B9C /* 2210991506_test2Tests */,
-			);
 			name = 2210991506_test2Tests;
 			packageProductDependencies = (
 			);
@@ -165,9 +150,6 @@
 			);
 			dependencies = (
 				D24B73C72CF1896E00B50B9C /* PBXTargetDependency */,
-			);
-			fileSystemSynchronizedGroups = (
-				D24B73C82CF1896E00B50B9C /* 2210991506_test2UITests */,
 			);
 			name = 2210991506_test2UITests;
 			packageProductDependencies = (
